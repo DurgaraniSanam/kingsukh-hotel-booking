@@ -12,24 +12,7 @@ A responsive, laptop-wide landing page showcasing a beautiful house with a lush 
 - SEO-ready meta tags and Open Graph placeholders
 - Easy deploy to GitHub Pages / Netlify / Vercel
 
-## 🗂 Project Structure
-```plaintext
-root/
-├─ index.html
-├─ /assets
-│  ├─ images/
-│  │  ├─ hero-bg.png
-│  │  └─ favicon.svg
-│  └─ icons/
-├─ /css
-│  ├─ styles.css
-│  └─ utils.css
-├─ /js
-│  ├─ main.js
-│  └─ helpers.js
-└─ README.md
 
-```
 
 ## 🚀 Getting Started
 
