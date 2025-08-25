@@ -12,7 +12,22 @@ A responsive, laptop-wide landing page showcasing a beautiful house with a lush 
 - SEO-ready meta tags and Open Graph placeholders
 - Easy deploy to GitHub Pages / Netlify / Vercel
 
+## 🗂 Project Structure
 
+root/
+├─ index.html
+├─ /assets
+│  ├─ images/
+│  │  ├─ hero-bg.png
+│  │  └─ favicon.svg
+│  └─ icons/
+├─ /css
+│  ├─ styles.css
+│  └─ utils.css
+├─ /js
+│  ├─ main.js
+│  └─ helpers.js
+└─ README.md
 
 ## 🚀 Getting Started
 
@@ -177,4 +192,6 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 Happy building! 🏡✨
 
 ```
+
+Would you like me to **remove all section headings (## ✨ Features, ## 🚀 Getting Started, etc.)** too, so the README is just plain flowing code text?
 ```
