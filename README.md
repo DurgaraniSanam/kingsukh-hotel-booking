@@ -1,5 +1,4 @@
 
-````markdown
 # Beautiful House — Landing Page
 
 A responsive, laptop-wide landing page showcasing a beautiful house with a lush garden and warm ambient lights. Includes a full-bleed hero section with a dimmed background image, accessible typography, and clean, modern styles.
