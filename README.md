@@ -16,19 +16,17 @@ A responsive, laptop-wide landing page showcasing a beautiful house with a lush 
 root/
 ├─ index.html
 ├─ /assets
-│ ├─ images/
-│ │ ├─ hero-bg.png
-│ │ └─ favicon.svg
-│ └─ icons/
+│  ├─ images/
+│  │  ├─ hero-bg.png
+│  │  └─ favicon.svg
+│  └─ icons/
 ├─ /css
-│ ├─ styles.css
-│ └─ utils.css
+│  ├─ styles.css
+│  └─ utils.css
 ├─ /js
-│ ├─ main.js
-│ └─ helpers.js
+│  ├─ main.js
+│  └─ helpers.js
 └─ README.md
-
-
 
 > Adjust file names/paths to match your project.
 
