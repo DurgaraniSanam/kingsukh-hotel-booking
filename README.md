@@ -13,7 +13,7 @@ A responsive, laptop-wide landing page showcasing a beautiful house with a lush 
 - Easy deploy to GitHub Pages / Netlify / Vercel
 
 ## 🗂 Project Structure
-
+```plaintext
 root/
 ├─ index.html
 ├─ /assets
@@ -28,6 +28,8 @@ root/
 │  ├─ main.js
 │  └─ helpers.js
 └─ README.md
+
+```
 
 ## 🚀 Getting Started
 
